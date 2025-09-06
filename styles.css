@@ -5,8 +5,22 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0 65px;
 }
-
+a{
+    text-decoration: none;
+    color: black;
+    background: red;
+}
+.banner{
+    margin: 0 105px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.banner-top{
+    padding-top: 60px;
+}
     
 
 
